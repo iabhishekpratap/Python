@@ -10,4 +10,5 @@ number2 = input("\nSecond number: ")
 # User might also enter float numbers
 sum = float(number1) + float(number2)
 
-print ("hello world !")
+print (sum)
+
