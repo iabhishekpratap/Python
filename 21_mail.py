@@ -2,7 +2,7 @@ import smtplib
 
 hostname='smtp.gmail.com'
 email = "creatorapsingh@gmail.com"
-password = "cgolivkhnpuotzqn" 
+password = "xxxxxxxxxxxxx" 
 
 with smtplib.SMTP(host=hostname) as connection: #client session connected to SMTP server.
     connection.starttls() #Upgrades the connection to a secure, encrypted using TLS
