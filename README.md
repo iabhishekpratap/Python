@@ -16,17 +16,18 @@ Error Handling: Writing robust code with exceptions.
 📂 Projects
 The Projects directory contains small projects to apply what I learned, such as:
 
-A basic calculator.
-Sending mail with python script.
-Weather Checking App - Working with API
+A basic calculator,
+Sending mail with python script,
+Weather Checking App - Working with API,
 Run Linux Commands
 
 🔗 Resources
 Here are some resources I used to learn Python:
 
-Python Official Documentation
-W3Schools Python Tutorial
-Real Python
+Python Official Documentation,
+W3Schools Python Tutorial,
+Real Python,
+You Tube Python Tutorial
 
 🤝 Contributions
 This is a personal learning project, but if you'd like to suggest improvements or add practice problems, feel free to open an issue or submit a pull request!
